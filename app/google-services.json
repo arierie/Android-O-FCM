@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "870695744891",
+    "firebase_url": "https://ngulik-23.firebaseio.com",
+    "project_id": "ngulik-23",
+    "storage_bucket": "ngulik-23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870695744891:android:739f15a7d956f0b7",
+        "android_client_info": {
+          "package_name": "id.arieridwan.androidonotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870695744891-g7rjt7nh1fflcsue4rjlru4ufpu97kjf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.arieridwan.androidonotif",
+            "certificate_hash": "6690ec3639300617e45b72e9db9e514ef3ae3da7"
+          }
+        },
+        {
+          "client_id": "870695744891-odruv1nnev05l8nt55imh6p4qhrsqqnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgUObg0Nr--U2i4qej6mlYJxDAGSWFG90"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870695744891-odruv1nnev05l8nt55imh6p4qhrsqqnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
